@@ -28,7 +28,7 @@ a {
   color: black;
 }
 
-.header__menu {
+.header {
   padding: 0 50px;
   display: flex;
   justify-content: space-between;
